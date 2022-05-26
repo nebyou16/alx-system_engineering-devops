@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mkdir -m drwxr-x--x my_dir
-
-=======
-mkdir -m drwxr-x--x dir_holberton
->>>>>>> 7ae25060060939c024ac2ca66e2104604f39019d
+mkdir -m751 my_dir
